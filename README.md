@@ -40,7 +40,7 @@ With professional internship experience and multiple personal projects, I've dev
 
 * * *
 
-Currently Learning
+## Currently Learning
 
 * Advanced **System Design Patterns**
   
@@ -61,9 +61,9 @@ Currently Learning
 
 ## GitHub Stats
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-azi&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-azi&layout=compact&theme=dark)
 
-
 
 * * *
 
