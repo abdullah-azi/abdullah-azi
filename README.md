@@ -64,6 +64,7 @@ With professional internship experience and multiple personal projects, I've dev
 * **LinkedIn:** [linkedin.com/in/syed-abdullah-bin-azeem](https://linkedin.com/in/syed-abdullah-bin-azeem)
 * **Email:** syed.abdullahazi@gmail.com
 * **Location:** Rawalpindi & Islamabad, Pakistan
+* **GitHub-Username:** SerenitysSlave
 
 * * *
 
