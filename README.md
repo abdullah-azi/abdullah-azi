@@ -16,7 +16,15 @@ With professional internship experience and multiple personal projects, I've dev
 
 ## Tech Stack
 
-**Frontend:** React JS, HTML5, CSS3, JavaScript**Backend:** Node.js/Express, ASP.NET, Python, FastAPI, Java**Databases:** MySQL/PostgreSQL, MongoDB**Languages:** C++, C#, Java, Python, JavaScript**Tools & Version Control:** Git, GitHub, Postman, VS Code
+**Frontend:** React JS, HTML5, CSS3, JavaScript
+
+**Backend:** Node.js/Express, ASP.NET, Python, FastAPI, Java
+
+**Databases:** MySQL/PostgreSQL, MongoDB
+
+**Languages:** C++, C#, Java, Python, JavaScript
+
+**Tools & Version Control:** Git, GitHub, Postman, VS Code
 
 * * *
 
