@@ -20,7 +20,7 @@ With professional internship experience and multiple personal projects, I've dev
 
 * * *
 
-##  Experience
+## Experience
 
 **Full-Stack Development:**
 
